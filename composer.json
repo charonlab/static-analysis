@@ -1,0 +1,12 @@
+{
+  "name": "charonlab/static-analysis",
+  "description": "Static analysis utilities for charon packages.",
+  "type": "library",
+  "require": {
+    "php": ">=8.1"
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimun-stability": "dev"
+}
