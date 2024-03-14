@@ -3,7 +3,8 @@
   "description": "Static analysis utilities for charon packages.",
   "type": "library",
   "require": {
-    "php": ">=8.1"
+    "php": ">=8.1",
+    "vimeo/psalm": "^6.x-dev"
   },
   "config": {
     "sort-packages": true
