@@ -10,5 +10,5 @@
   "config": {
     "sort-packages": true
   },
-  "minimun-stability": "dev"
+  "minimum-stability": "dev"
 }
