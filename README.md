@@ -1,6 +1,10 @@
 # charonlab/static-analysis
 
-[![License](https://poser.pugx.org/charonlab/static-analysis/license.svg)](https://packagist.org/packages/static-analysis/testing)
+[![PHP Version Require](https://poser.pugx.org/charonlab/static-analysis/require/php)](https://packagist.org/packages/charonlab/static-analysis)
+[![Latest Stable Version](https://poser.pugx.org/charonlab/static-analysis/v/stable)](https://packagist.org/packages/charonlab/static-analysis)
+[![Total Downloads](https://poser.pugx.org/charonlab/static-analysis/downloads)](https://packagist.org/charonlab/static-analysis)
+[![License](https://poser.pugx.org/charonlab/static-analysis/license.svg)](https://packagist.org/packages/charonlab/static-analysis)
+
 
 ## Installation
 
