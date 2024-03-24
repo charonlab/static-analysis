@@ -3,12 +3,18 @@
   "description": "Static analysis utilities for charon packages.",
   "license": "MIT",
   "type": "library",
+  "keywords": [
+    "static analysis",
+    "code",
+    "inspection",
+    "dev"
+  ],
   "require": {
     "php": ">=8.1",
     "vimeo/psalm": "^6.x-dev"
   },
+  "minimum-stability": "dev",
   "config": {
     "sort-packages": true
-  },
-  "minimum-stability": "dev"
+  }
 }
